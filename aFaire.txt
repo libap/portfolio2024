@@ -1,4 +1,0 @@
-FAIT-changezr mon bitmoji
--changer nom des pages en francais et le js
--changer les category en francais
--url du site restaurateur admin en php sur github repository
