@@ -514,7 +514,7 @@ main {
 
 .service { margin-bottom: 35px; }
 
-.service-title { margin-bottom: 20px; }
+.service-title { margin-bottom: 20px; text-transform: none !important; }
 
 .service-list {
   display: grid;
